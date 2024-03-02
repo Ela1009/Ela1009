@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eleonora</h1>
-<h3 align="center">A aecond year Computer Science student</h3>
+<h3 align="center">A second year Computer Science student</h3>
 
 - 🌱 I’m currently learning **C#, C++, Python**
 
