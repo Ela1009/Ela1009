@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eleonora</h1>
 <h3 align="center">A Computer Science student</h3>
 
-- 🌱 I’m currently learning **C#, C++, Python**
+- 🌱 I’m currently learning **C++, Python**
 
 - 📫 How to reach me **ela.vrcelj@gmail.com**
 
